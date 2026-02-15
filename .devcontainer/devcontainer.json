@@ -1,4 +1,4 @@
 {
     "name": "Basic Development Environment",
-    "image": "mcr.microsoft.com/vscode/devcontainers/base.debian"
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:debian"
 }
